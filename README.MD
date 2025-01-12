@@ -25,11 +25,11 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagem gerada via MidJourney
 
 ## 📚 Materiais
 
-- Imagem utilizadas em `assets`
+- Imagem utilizada em `assets`
 - ebook gerado em `output`
 
 
